@@ -28,15 +28,3 @@ const useFetch = (url) => {
 
 export default useFetch;
 
-
-
-import { useState, useEffect } from "react";
-
-
-const useEffect=(url)=>{
-async function fetchData(){
-  const {data ,setData} (null)
-}
-
-}
-export default useFetch;
